@@ -7,6 +7,8 @@ The repository contains the following contents.
 2. Python program to model a 1-D sine function using Continuous CMAC
 3. Generalization factor vs Accuracy program for Discrete and Continuous CMAC
 
+Report for the task is added "Assignment 2-Report.pdf"
+
 ## Personnel
 ### Ameya Konkar 
 
